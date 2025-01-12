@@ -7,3 +7,7 @@
 - 💬 Ask me about memetics and culture science.
 - 📫 How to reach me: https://x.com/trangquest
 - ⚡ Fun fact: avid chess player, singing in choir
+
+I don't like the prompts for my readme page.
+
+- why has nothing changed?
