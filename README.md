@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the community archive.
-- 🌱 I’m currently learning how to design programs.
+- 🔭 I’m currently working on the community archive and tinygrad.
+- 🌱 I’m currently learning about distributed systems, memetics, abstract algebra, conceptual design
+  - Which memes and beliefs drive the behavior of software developers?  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with onboarding new devs in tinygrad.
 - 💬 Ask me about memetics and culture science.
