@@ -8,6 +8,8 @@ I'm also attempting to understand the chord protocol which answers the question 
 - Diffusion of Innovations, diffusion of the internet
 - My main background is in memetics or cultural science. Generally speaking, I'm doing research on how ideas are being replicated and how they spread in social systems.
 
+### Contact
+
 - 📫 How to reach me: https://x.com/trangquest
 - ⚡ Fun fact: avid chess player, singing in choir
 
