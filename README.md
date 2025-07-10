@@ -11,5 +11,5 @@ I'm also attempting to understand the chord protocol which answers the question 
 ### Contact
 
 - 📫 How to reach me: https://x.com/trangquest
-- ⚡ Fun fact: avid chess player, singing in choir
+- ⚡ Fun fact: avid chess player
 
